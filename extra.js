@@ -1,0 +1,1 @@
+    // "test": "NODE_OPTIONS=--experimental-vm-modules jest",
