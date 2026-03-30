@@ -68,7 +68,7 @@ export function getSeasonActivity(month, temperature) {
   let Winter = [12, 1, 2];
   let Spring = [3, 4, 5];
   let Summer = [6, 7, 8];
-  let Autumn = [9, 10, 11];
+  // let Autumn = [9, 10, 11];
 
   let mon = weather(month);
   let adv = activity(temperature, mon);
