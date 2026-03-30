@@ -45,3 +45,6 @@ export function getWeatherAdvice(temperature, isRaining) {
 
   return advice;
 }
+
+
+//done

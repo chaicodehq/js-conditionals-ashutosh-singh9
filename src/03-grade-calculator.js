@@ -54,3 +54,5 @@ export function calculateGrade(score, hasExtraCredit) {
 
   return scale
 }
+
+//done

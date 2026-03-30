@@ -48,3 +48,5 @@ export function getTicketPrice(age, isWeekend) {
   } 
     return ticketPrice;
 }
+
+//done

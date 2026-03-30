@@ -74,3 +74,6 @@ export function getSeasonActivity(month, temperature) {
   let adv = activity(temperature, mon);
   return { season: mon, activity: adv };
 }
+
+
+//done
